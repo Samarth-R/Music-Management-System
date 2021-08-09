@@ -1,0 +1,54 @@
+.center{
+  text-align: center;
+}
+
+html,#font_id {
+  height: 100%;
+  font-family: 'Gruppo';
+  font-size: 20px;
+}
+
+h1{
+  font-family: 'Gruppo';
+  font-size: 40px;
+}
+
+#nav-color{
+  background: #1f1f38;
+  margin-top:5px;
+}
+
+#form_login {
+   margin-top: 150px;
+}
+
+#login_label_id{
+  color: #d2e0d1;
+}
+
+#login_btn_id{
+  color: #d2e0d1;
+  background-color: #2f8f27;
+}
+
+#login_h1_id{
+  color: #2f8f27;
+}
+
+#reduce{
+  width: 500px;
+}
+
+p{
+  font-size: 30px;
+}
+
+input[type="text"],input[type="email"],input[type="number"]
+{
+    font-size:24px;
+}
+
+form{
+  align: center;
+  margin: 0 auto;
+}
